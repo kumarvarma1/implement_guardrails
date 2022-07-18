@@ -13,6 +13,7 @@ import os,signal
 import sys
 import vpi
 import time
+from tqdm import tqdm
 
 class implement_detection:
 
