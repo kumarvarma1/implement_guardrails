@@ -14,6 +14,7 @@ import sys
 import vpi
 import time
 from tqdm import tqdm
+import math
 
 class implement_detection:
 
